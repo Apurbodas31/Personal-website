@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color:deeppink;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+h4{
+    padding-top: 40px;
+}
+
+h5{
+    margin-top: -15px;
+    color: dimgray;
+}
+
+.container{
+    padding: 100px 100px;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    color: dimgray;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
+.client p{
+    color: black;
+}
+
+.pic-width{
+    width: 45%;
+    float: left;
+}
+
+.text-width{
+    width: 42%;
+    padding-top: 150px;
+    padding-left: 8%;
+    float: left;
+}
+
+.text-width a{
+    background-image: linear-gradient(45deg, fuchsia, deeppink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.mail a{
+    text-decoration: none;
+}
+
+.box{
+    background-image: linear-gradient(45deg, fuchsia, deeppink);
+    width: 600px;
+    height: 100px;
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 40px;
+}
+
+.headline{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.first-sec{
+    height: 750px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-sec{
+    height: 850px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.one-third{
+    width: 30%;
+    padding-left: 3%;
+    float: left;
+}
+
+.third-sec{
+    height: 700px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.last-sec{
+    height: 700px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont{
+    text-align: center;
+}
+
+.mail{
+    padding-top: 50px;
+}
+
+#message{
+    font-size: 12px;
+}
+
+#gmail{
+    font-size: 28px;
+}
